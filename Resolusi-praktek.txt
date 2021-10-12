@@ -1,6 +1,7 @@
 Resolusi belajar web dev
 - Menyelsaikan CRUD
 - Melanjutkan dan mendalami CSS 
+- CSS Flex, Grid
 - Lalu CSS Framework
 - Javascript dasar
 - Javascript menengah
