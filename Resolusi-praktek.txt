@@ -1,0 +1,3 @@
+Resolusi belajar web dev
+- Menyelsaikan CRUD
+- Melanjutkan dan mendalami CSS 
